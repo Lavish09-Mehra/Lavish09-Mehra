@@ -1,25 +1,230 @@
-# 💫 About Me:
-I am currently Doing BCA 1st  year at MSM ( Masters School of Managment )<br>i just learnt and create some projects<br>my Skills<br>JavaScript, Node.JS, Express, MongoDB, Postgresql, python and<br>currently doing C++ than DSA<br>interested in Backend Server and Database side<br>My Strength is AI Agentic coding<br>i have made one project <br>Morasious <br>https://morasious.qzz.io<br>
+# 👋 Hi, I'm Lavish Mehra
 
+### Backend Developer in Progress · AI/ML Enthusiast · Builder
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lavish09dev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Lavish Mehra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lavishjee247@gmail.com) 
+I'm a **BCA 1st-year student at Masters' School of Management (MSM)**, focused on understanding how software works behind the interface — especially **backend systems, APIs, databases, and intelligent applications**.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lavish09-Mehra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lavish09-Mehra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lavish09-Mehra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy building things, breaking them, understanding why they broke, and rebuilding them better.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lavish09-Mehra&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+Currently, I'm strengthening my foundations in **C++ and DSA**, while preparing to move deeper into **AI/ML and FastAPI**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Lavish09-Mehra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Coffee) 
+## 🧠 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🎓 BCA 1st Year — Masters' School of Management
+* 🔧 Interested in **Backend Engineering & Database Systems**
+* 🤖 Strong interest in **AI Agentic Coding**
+* 🛠️ Building projects with **Node.js, Express, MongoDB & PostgreSQL**
+* 📊 Exploring **Python, NumPy, Pandas & Matplotlib**
+* 💻 Currently learning **C++ → DSA**
+* 🧠 Future focus: **AI/ML + FastAPI**
+* 🚀 I prefer building real projects over only following tutorials
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`JavaScript` · `Python` · `C++`
+
+### Backend
+
+`Node.js` · `Express.js` · `REST APIs` · `FastAPI (Upcoming)`
+
+### Databases
+
+`MongoDB` · `PostgreSQL`
+
+### Data & Scientific Computing
+
+`NumPy` · `Pandas` · `Matplotlib`
+
+### Currently Learning
+
+`C++` → `Data Structures & Algorithms`
+
+### Future Focus
+
+`Machine Learning` · `AI Engineering` · `FastAPI` · `AI Agents`
+
+---
+
+## 🏗️ What I Like Building
+
+My main interest is the part of an application that users don't directly see.
+
+```text
+Client
+   ↓
+API
+   ↓
+Backend Server
+   ↓
+Business Logic
+   ↓
+Database
+   ↓
+Data / AI Systems
+```
+
+I'm particularly interested in:
+
+* 🔌 REST API architecture
+* 🗄️ Database design
+* 🔐 Authentication & authorization
+* ⚡ Backend logic
+* 📡 Server-side applications
+* 📊 Data processing
+* 🤖 AI-powered backend systems
+* 🧠 Agentic AI workflows
+
+---
+
+## 🚀 Featured Project
+
+### 🤖 Morasious
+
+A project I've built while exploring the intersection of software development and AI.
+
+🌐 **Live:** [morasious.qzz.io](https://morasious.qzz.io?utm_source=chatgpt.com)
+
+---
+
+## 📚 Projects
+
+Some of my learning and development projects include:
+
+| Project                 | Description                                            |
+| ----------------------- | ------------------------------------------------------ |
+| 📚 **Bookshelf**        | My first Node.js / Express learning project            |
+| 🧩 **Basic Projects**   | JavaScript and Node.js fundamentals                    |
+| 🌐 **REST API Project** | Backend logic for a social-media-style application     |
+| 🤖 **REST API ChatBot** | REST API based chatbot project                         |
+| 📝 **Notes API**        | Backend API for a notes application                    |
+| 🍽️ **Restaurant API**  | Restaurant menu API using Node.js, Express and MongoDB |
+| 🛒 **E-Commerce API**   | Backend-focused e-commerce API                         |
+| 🤖 **Morasious**        | My personal AI-oriented project                        |
+
+You can explore my repositories on [GitHub — Lavish09-Mehra](https://github.com/Lavish09-Mehra?utm_source=chatgpt.com).
+
+---
+
+## 🧭 My Learning Roadmap
+
+```text
+JavaScript
+    ↓
+Node.js + Express
+    ↓
+REST APIs
+    ↓
+MongoDB + PostgreSQL
+    ↓
+Python + Data Libraries
+    ↓
+C++
+    ↓
+DSA
+    ↓
+FastAPI
+    ↓
+Machine Learning
+    ↓
+AI Engineering
+    ↓
+Agentic AI Systems
+```
+
+The goal isn't just to learn frameworks.
+
+The goal is to understand **how systems work**.
+
+---
+
+## 🤖 AI Agentic Coding
+
+One of my strongest interests is **AI Agentic Coding**.
+
+I use AI as an engineering tool — not simply to generate code, but to:
+
+* Explore unfamiliar technologies
+* Debug problems
+* Understand architectures
+* Generate and test ideas
+* Automate repetitive development work
+* Prototype systems quickly
+* Learn by iterating on real projects
+
+My goal is to become someone who can combine **software engineering fundamentals + AI agents** to build systems faster and more intelligently.
+
+---
+
+## 🎯 Long-Term Direction
+
+I'm working toward becoming a developer who can operate across the backend and AI stack:
+
+```text
+Backend Engineering
+        +
+Database Engineering
+        +
+Data / Python
+        +
+Machine Learning
+        +
+AI Agents
+        =
+Intelligent Backend Systems
+```
+
+I am especially interested in building **AI-powered backend systems, intelligent APIs, data-driven applications, and agentic software**.
+
+---
+
+## 📈 Currently Working On
+
+* 🔹 C++
+* 🔹 Data Structures & Algorithms
+* 🔹 Backend architecture
+* 🔹 PostgreSQL
+* 🔹 Python data ecosystem
+* 🔹 Improving database fundamentals
+
+### Next
+
+* 🚀 FastAPI
+* 🤖 Machine Learning
+* 🧠 AI Engineering
+* ⚡ Agentic AI systems
+
+---
+
+## 💭 Engineering Philosophy
+
+> **Don't just make it work. Understand why it works.**
+
+I believe the best way to learn software engineering is to:
+
+**Learn → Build → Break → Debug → Understand → Rebuild**
+
+Every project is another step toward understanding how real systems are designed.
+
+---
+
+## 🌐 Find Me
+
+**GitHub:** [@Lavish09-Mehra](https://github.com/Lavish09-Mehra?utm_source=chatgpt.com)
+
+**Project:** [Morasious](https://morasious.qzz.io?utm_source=chatgpt.com)
+
+---
+
+### ⚡ Building. Learning. Breaking things. Building them better.
+
+**Currently → C++ + DSA**
+
+**Next → FastAPI + AI/ML**
+
+**Long term → Intelligent Backend & Agentic AI Systems**
