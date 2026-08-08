@@ -219,6 +219,10 @@ Every project is another step toward understanding how real systems are designed
 
 **Project:** [Morasious](https://morasious.qzz.io?utm_source=chatgpt.com)
 
+**LinkedIN:** [Lavish Mehra](www.linkedin.com/in/lavish09dev)
+
+**E-Mail:** (developerlavish@outlook.com)
+
 ---
 
 ### ⚡ Building. Learning. Breaking things. Building them better.
