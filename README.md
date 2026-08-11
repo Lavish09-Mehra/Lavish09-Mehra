@@ -41,7 +41,7 @@ My current focus is strengthening my foundations in **backend engineering, Postg
 
 ### Authentication & Security
 
-`JWT` · `bcrypt` · `Role-Based Authorization` · `AES-256-GCM`
+`JWT` · `bcrypt` · `Role-Based Authorization`
 
 ### Python / Data
 
@@ -158,7 +158,8 @@ Features include:
 
 An AI-oriented project exploring the intersection between software development and AI.
 
-🌐 Live Project: **Morasious**
+🌐 Live Project: **Morasious** 
+🔗 https://morasious.qzz.io
 
 ---
 
