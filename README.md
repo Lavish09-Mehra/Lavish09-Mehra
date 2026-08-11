@@ -1,25 +1,27 @@
 # 👋 Hi, I'm Lavish Mehra
 
-### Backend Developer in Progress · AI/ML Enthusiast · Builder
+### Backend Developer in Progress • API Builder • AI/ML Enthusiast
 
-I'm a **BCA 1st-year student at Masters' School of Management (MSM)**, focused on understanding how software works behind the interface — especially **backend systems, APIs, databases, and intelligent applications**.
+I'm a BCA 1st-year student focused on **backend development, APIs, databases, and intelligent systems**.
 
-I enjoy building things, breaking them, understanding why they broke, and rebuilding them better.
+I learn primarily by **building projects**, breaking things, debugging them, and understanding why they work.
 
-Currently, I'm strengthening my foundations in **C++ and DSA**, while preparing to move deeper into **AI/ML and FastAPI**.
+My current focus is strengthening my foundations in **backend engineering, PostgreSQL, C++, and DSA**, with a long-term goal of moving deeper into **Python, FastAPI, AI/ML, and AI-powered backend systems**.
 
 ---
 
 ## 🧠 About Me
 
 * 🎓 BCA 1st Year — Masters' School of Management
-* 🔧 Interested in **Backend Engineering & Database Systems**
-* 🤖 Strong interest in **AI Agentic Coding**
-* 🛠️ Building projects with **Node.js, Express, MongoDB & PostgreSQL**
-* 📊 Exploring **Python, NumPy, Pandas & Matplotlib**
-* 💻 Currently learning **C++ → DSA**
-* 🧠 Future focus: **AI/ML + FastAPI**
-* 🚀 I prefer building real projects over only following tutorials
+* 💻 Backend-focused developer
+* 🔧 Building REST APIs with Node.js and Express
+* 🗄️ Working with MongoDB and PostgreSQL
+* 🔐 Learning authentication, authorization, encryption and backend security
+* 🧩 Interested in system design and database architecture
+* ⚡ Currently learning C++ and DSA
+* 🐍 Revisiting Python and its data ecosystem
+* 🤖 Long-term focus: AI/ML + AI Engineering
+* 🚀 I prefer building real projects instead of only following tutorials
 
 ---
 
@@ -27,42 +29,44 @@ Currently, I'm strengthening my foundations in **C++ and DSA**, while preparing 
 
 ### Languages
 
-`JavaScript` · `Python` · `C++`
+`JavaScript` · `Python` · `C++` · `SQL`
 
 ### Backend
 
-`Node.js` · `Express.js` · `REST APIs` · `FastAPI (Upcoming)`
+`Node.js` · `Express.js` · `REST APIs`
 
 ### Databases
 
 `MongoDB` · `PostgreSQL`
 
-### Data & Scientific Computing
+### Authentication & Security
+
+`JWT` · `bcrypt` · `Role-Based Authorization` · `AES-256-GCM`
+
+### Python / Data
 
 `NumPy` · `Pandas` · `Matplotlib`
 
-### Currently Learning
+### Tools
 
-`C++` → `Data Structures & Algorithms`
-
-### Future Focus
-
-`Machine Learning` · `AI Engineering` · `FastAPI` · `AI Agents`
+`Git` · `GitHub` · `Postman` · `VS Code`
 
 ---
 
-## 🏗️ What I Like Building
+# 🏗️ What I Build
 
 My main interest is the part of an application that users don't directly see.
 
 ```text
 Client
    ↓
-API
+REST API
    ↓
 Backend Server
    ↓
 Business Logic
+   ↓
+Authentication / Authorization
    ↓
 Database
    ↓
@@ -74,161 +78,275 @@ I'm particularly interested in:
 * 🔌 REST API architecture
 * 🗄️ Database design
 * 🔐 Authentication & authorization
-* ⚡ Backend logic
+* 👥 Role-based access control
+* ⚡ Backend business logic
 * 📡 Server-side applications
-* 📊 Data processing
+* 🔎 Searching, filtering & pagination
+* 🔗 Database relationships
+* 🛡️ Security & encryption
 * 🤖 AI-powered backend systems
-* 🧠 Agentic AI workflows
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
-### 🤖 Morasious
+## 🏥 Doctor Appointment API
 
-A project I've built while exploring the intersection of software development and AI.
+A structured clinic appointment REST API built with Node.js, Express and MongoDB.
 
-🌐 **Live:** [morasious.qzz.io](https://morasious.qzz.io?utm_source=chatgpt.com)
+Features include:
 
----
+* Patient, Doctor & Appointment CRUD
+* JWT authentication
+* Role-based authorization
+* Patient / Doctor / Admin roles
+* Appointment booking
+* Double-booking prevention
+* Pagination
+* Search
+* Filtering
+* Sorting
+* MongoDB relationships with `populate()`
+* Centralized error handling
+* AES-256-GCM encryption for patient contact information
 
-## 📚 Projects
-
-Some of my learning and development projects include:
-
-| Project                 | Description                                            |
-| ----------------------- | ------------------------------------------------------ |
-| 📚 **Bookshelf**        | My first Node.js / Express learning project            |
-| 🧩 **Basic Projects**   | JavaScript and Node.js fundamentals                    |
-| 🌐 **REST API Project** | Backend logic for a social-media-style application     |
-| 🤖 **REST API ChatBot** | REST API based chatbot project                         |
-| 📝 **Notes API**        | Backend API for a notes application                    |
-| 🍽️ **Restaurant API**  | Restaurant menu API using Node.js, Express and MongoDB |
-| 🛒 **E-Commerce API**   | Backend-focused e-commerce API                         |
-| 🤖 **Morasious**        | My personal AI-oriented project                        |
-
-You can explore my repositories on [GitHub — Lavish09-Mehra](https://github.com/Lavish09-Mehra?utm_source=chatgpt.com).
+**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt` `Crypto`
 
 ---
 
-## 🧭 My Learning Roadmap
+## 👴 Old-School Facebook API
+
+A backend implementation of a simplified social-media platform.
+
+Built to understand how social-media backend logic works using REST APIs.
+
+Features include:
+
+* User authentication
+* JWT authorization
+* Posts
+* Likes
+* Comments
+* User profiles
+* Protected routes
+* MongoDB relationships
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
+
+---
+
+## 🛒 E-Commerce API
+
+A backend-focused e-commerce REST API.
+
+Features include:
+
+* Authentication
+* JWT
+* Role-based authorization
+* Products
+* Shopping cart
+* CRUD operations
+* Protected routes
+* MongoDB data relationships
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `JWT`
+
+---
+
+## 🤖 Morasious
+
+An AI-oriented project exploring the intersection between software development and AI.
+
+🌐 Live Project: **Morasious**
+
+---
+
+# 📚 Other Projects
+
+| Project                        | What I Learned                                                   |
+| ------------------------------ | ---------------------------------------------------------------- |
+| 🏥 **Doctor Appointment API**  | Advanced REST API architecture, RBAC, encryption & booking logic |
+| 🐶 **Dogs Fact API**           | External API integration + MongoDB persistence                   |
+| 👴 **Old-School Facebook API** | Social-media backend logic, likes & comments                     |
+| 🛒 **E-Commerce API**          | Authentication, authorization & cart logic                       |
+| 🍽️ **Restaurant API**         | MongoDB schemas & array-based data                               |
+| 📝 **Notes API**               | REST CRUD operations                                             |
+| 🤖 **REST API ChatBot**        | API-based chatbot architecture                                   |
+| 🌐 **REST API Project**        | Social-media-style backend logic                                 |
+| 📚 **Bookshelf**               | First Node.js / Express project                                  |
+| 📝 **Blog API**                | Searching, filtering & sorting                                   |
+| 🧩 **Basic Projects**          | JavaScript & Node.js fundamentals                                |
+
+---
+
+# 📈 My Backend Progression
 
 ```text
 JavaScript
-    ↓
-Node.js + Express
-    ↓
+     ↓
+Node.js
+     ↓
+Express.js
+     ↓
 REST APIs
-    ↓
-MongoDB + PostgreSQL (Prisma Later)
-    ↓
-   C++
-    ↓
-   DSA
-    ↓
-Python + Data Libraries
-    ↓
+     ↓
+MongoDB
+     ↓
+Authentication & JWT
+     ↓
+Authorization / RBAC
+     ↓
+Advanced Backend Logic
+     ↓
+PostgreSQL
+     ↓
+Database Design
+     ↓
+C++ + DSA
+     ↓
+Python
+     ↓
 FastAPI
-    ↓
+     ↓
 Machine Learning
-    ↓
+     ↓
 AI Engineering
-    ↓
-Agentic AI Systems
+     ↓
+AI Agents
 ```
 
-The goal isn't just to learn frameworks.
-
-The goal is to understand **how systems work**.
-
 ---
 
-## 🤖 AI Agentic Coding
+# 🧪 How I Learn
 
-One of my strongest interests is **AI Agentic Coding**.
+I don't want to just memorize frameworks.
 
-I use AI as an engineering tool — not simply to generate code, but to:
-
-* Explore unfamiliar technologies
-* Debug problems
-* Understand architectures
-* Generate and test ideas
-* Automate repetitive development work
-* Prototype systems quickly
-* Learn by iterating on real projects
-
-My goal is to become someone who can combine **software engineering fundamentals + AI agents** to build systems faster and more intelligently.
-
----
-
-## 🎯 Long-Term Direction
-
-I'm working toward becoming a developer who can operate across the backend and AI stack:
+My learning loop is:
 
 ```text
-Backend Engineering
-        +
-Database Engineering
-        +
-Data / Python
-        +
-Machine Learning
-        +
-AI Agents
-        =
-Intelligent Backend Systems
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Rebuild
 ```
 
-I am especially interested in building **AI-powered backend systems, intelligent APIs, data-driven applications, and agentic software**.
+Every project is an opportunity to understand another part of software engineering.
 
 ---
 
-## 📈 Currently Working On
+# 🧠 Current Focus
+
+### Currently Working On
 
 * 🔹 C++
 * 🔹 Data Structures & Algorithms
-* 🔹 Backend architecture
 * 🔹 PostgreSQL
-* 🔹 Python data ecosystem
-* 🔹 Improving database fundamentals
+* 🔹 Backend architecture
+* 🔹 Database fundamentals
+* 🔹 Improving API design
+* 🔹 Python revision
 
 ### Next
 
 * 🚀 FastAPI
+* 🐍 Advanced Python
+* 📊 NumPy / Pandas
 * 🤖 Machine Learning
 * 🧠 AI Engineering
-* ⚡ Agentic AI systems
+* ⚡ AI Agent systems
 
 ---
 
-## 💭 Engineering Philosophy
+# 🤖 AI + Software Engineering
+
+I'm interested in using AI as an **engineering tool**, not just as a code generator.
+
+I use AI to:
+
+* Debug unfamiliar problems
+* Understand new technologies
+* Explore architectures
+* Generate ideas
+* Prototype faster
+* Analyze errors
+* Learn concepts from different perspectives
+
+The goal is to combine:
+
+```text
+Software Engineering
+        +
+Backend Development
+        +
+Database Engineering
+        +
+Python / Data
+        +
+AI
+        =
+Intelligent Backend Systems
+```
+
+---
+
+# 🎯 Long-Term Goal
+
+I want to become a developer capable of working across the **backend + database + data + AI stack**.
+
+```text
+Backend Engineering
+        +
+Database Systems
+        +
+Data Engineering
+        +
+Machine Learning
+        +
+AI Engineering
+        +
+Agentic Systems
+```
+
+Ultimately, I want to build **real intelligent systems**, not just demos.
+
+---
+
+# 💭 Engineering Philosophy
 
 > **Don't just make it work. Understand why it works.**
 
-I believe the best way to learn software engineering is to:
+Build it.
 
-**Learn → Build → Break → Debug → Understand → Rebuild**
+Break it.
 
-Every project is another step toward understanding how real systems are designed.
+Debug it.
+
+Understand it.
+
+Then build it better.
 
 ---
 
-## 🌐 Find Me
+# 🌐 Find Me
 
-**GitHub:** [@Lavish09-Mehra](https://github.com/Lavish09-Mehra?utm_source=chatgpt.com)
-
-**Project:** [Morasious](https://morasious.qzz.io?utm_source=chatgpt.com)
-
-**LinkedIN:** [Lavish Mehra](www.linkedin.com/in/lavish09dev)
-
-**E-Mail:** (developerlavish@outlook.com)
+* **GitHub:** @Lavish09-Mehra
+* **LinkedIn:** Lavish Mehra
+* **Email:** [developerlavish@outlook.com](mailto:developerlavish@outlook.com)
 
 ---
 
 ### ⚡ Building. Learning. Breaking things. Building them better.
 
-**Currently → C++ + DSA**
+**Currently → C++ + DSA + PostgreSQL**
 
-**Next → FastAPI + AI/ML**
+**Next → Python + FastAPI + AI/ML**
 
-**Long term → Intelligent Backend & Agentic AI Systems**
+**Long Term → Intelligent Backend & AI Systems**
