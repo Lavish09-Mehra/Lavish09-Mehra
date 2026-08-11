@@ -120,13 +120,13 @@ Node.js + Express
     ↓
 REST APIs
     ↓
-MongoDB + PostgreSQL
+MongoDB + PostgreSQL (Prisma Later)
+    ↓
+   C++
+    ↓
+   DSA
     ↓
 Python + Data Libraries
-    ↓
-C++
-    ↓
-DSA
     ↓
 FastAPI
     ↓
